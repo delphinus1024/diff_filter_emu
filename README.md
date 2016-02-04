@@ -8,10 +8,10 @@ diff_filter_emu is command line tool that generates image with pseudo diffusion 
 This program is especially good for starry night photography enhancement, however, can be used for other kinds of photography.
 
 Before
-![Demo](https://raw.githubusercontent.com/castana/test2/master/avatar.png)
+![Demo](https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/before.png)
 
 After
-![Demo](https://raw.githubusercontent.com/castana/test2/master/avatar.png)
+![Demo](https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/after.png)
 
 ## Features
 
@@ -48,5 +48,5 @@ Castana
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/castana/test2/master/LICENSE.txt)
+[MIT](https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/LICENSE.txt)
 
