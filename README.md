@@ -6,14 +6,15 @@ Add pseudo diffusion filter effect to given photo image.
 
 diff_filter_emu is command line tool that generates image with pseudo diffusion filter effect, this effect is realized with cascading (adding) gradual gaussian filtered layers of original image.
 This program is especially good for starry night photography enhancement, however, can be used for other kinds of photography.
+Working with large image size (such as more than FullHD size) is recommended.
 
 Before
 
-![Demo](https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/before.png)
+<img src="https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/before.png" style="width: 600px;"/>
 
-After
+After (w/ default parameters)
 
-![Demo](https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/after.png)
+<img src="https://raw.githubusercontent.com/delphinus1024/diff_filter_emu/master/after.png" style="width: 600px;"/>
 
 ## Features
 

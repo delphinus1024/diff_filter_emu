@@ -91,9 +91,9 @@ int soft_filter(cv::Mat &src_img,cv::Mat &dst_img,int iteration,double decay_fac
 }
 
 int	iteration = 5;
-double decay_factor = 2.0;
+double decay_factor = 5.0;
 double decay_offset = 0.1;
-double gamma = 1.8;
+double gamma = 1.3;
 std::string input_img = ("");
 std::string output_img = ("result.tif");
 bool show_result = false;
